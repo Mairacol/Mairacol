@@ -18,8 +18,8 @@ Soy desarrolladora **Front-End** apasionada por el diseño de interfaces intuiti
 - Buenas prácticas de **UI/UX** y optimización de rendimiento en aplicaciones web.
 
 ### 📫 Cómo contactarme:
-- Puedes escribirme a [mi correo](mairacolman19@gmail.com).
-- Conéctate conmigo en [LinkedIn](https://www.linkedin.com/in/maira-colman).
+- Puedes escribirme a mairacolman19@gmail.com
+- Conéctate conmigo en https://www.linkedin.com/in/maira-colman
 
 
 
