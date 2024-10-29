@@ -3,7 +3,9 @@
 Soy desarrolladora **Front-End** apasionada por el diseño de interfaces intuitivas y la creación de experiencias de usuario atractivas. Me encanta trabajar con **React**, **JavaScript** y otras tecnologías modernas para construir aplicaciones web eficientes y dinámicas. 🌟
 
 ### 🔭 Actualmente estoy trabajando en:
-- **Plataforma de adopción de mascotas** 🐾: Un sistema completo para facilitar la adopción de animales, gestionando usuarios, reseñas, solicitudes y además permite realizar donaciones de forma segura con integración de **MercadoPago**..
+Movies Play: 
+Una plataforma de tendencias de las peliculas del momento!
+Con sus categorias, buscador y estrellas
 
 
 ### 🌱 Siempre aprendiendo:
