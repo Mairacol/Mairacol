@@ -4,10 +4,6 @@ Soy desarrolladora **Front-End** apasionada por el diseño de interfaces intuiti
 
 ### 🔭 Actualmente estoy trabajando en:
 
-Movies Play: 
-Una plataforma de tendencias de las peliculas del momento!
-Con sus categorias, buscador y estrellas
-
 GAME STASH:
 Aplicación de compra/venta de cartas y juegos de mesa.
 
