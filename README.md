@@ -1,41 +1,27 @@
-## ¡Hola! Soy Maira Colman 👋
+¡Hola! Soy Maira Colman 👋
+Soy una Desarrolladora Front-End apasionada por el diseño de interfaces intuitivas y la creación de experiencias de usuario atractivas. Disfruto transformar ideas en realidades digitales utilizando tecnologías modernas como React y JavaScript. 🌟
 
-Soy desarrolladora **Front-End** apasionada por el diseño de interfaces intuitivas y la creación de experiencias de usuario atractivas. Me encanta trabajar con **React**, **JavaScript** y otras tecnologías modernas para construir aplicaciones web eficientes y dinámicas. 🌟
+🚀 Proyectos destacados:
+🎲 GAME STASH
+Aplicación para la compra y venta de cartas y juegos de mesa.
+https://game-stash.mx/ 
 
-### 🔭 Actualmente estoy trabajando en:
+🌱 Siempre aprendiendo:
+Mejorando habilidades avanzadas en CSS y diseño responsivo.
+Explorando TypeScript y pruebas automatizadas para aplicaciones web.
 
-GAME STASH:
-Aplicación de compra/venta de cartas y juegos de mesa.
+🤝 Busco colaborar en:
+Proyectos Open Source enfocados en mejorar la experiencia de usuario y la accesibilidad.
+Equipos apasionados por el desarrollo ágil, código limpio y buenas prácticas.
 
-### 🌱 Siempre aprendiendo:
-- Mejorando mis habilidades en CSS
+💬 Pregúntame sobre:
+Cómo crear aplicaciones interactivas con JavaScript, React y Redux.
+Buenas prácticas de UI/UX para optimizar el rendimiento de aplicaciones web.
 
-### 👯 Estoy buscando colaborar en:
-- Proyectos **Open Source** enfocados en mejorar la experiencia de usuario y la accesibilidad.
-- Equipos con pasión por el desarrollo ágil y buenas prácticas de código.
+📫 Contáctame:
+📧 mairacolman19@gmail.com
+🌐 LinkedIn https://www.linkedin.com/in/maira-colman/
+💻 Portafolio https://my-portfolio-production-877d.up.railway.app/
 
-### 💬 Pregúntame sobre:
-- **JavaScript**, **React**, **Redux** y cómo crear aplicaciones interactivas desde cero.
-- Buenas prácticas de **UI/UX** y optimización de rendimiento en aplicaciones web.
-
-### 📫 Cómo contactarme:
-- Puedes escribirme a mairacolman19@gmail.com
-- Conéctate conmigo en https://www.linkedin.com/in/maira-colman
-- Mi portfolio https://my-portfolio-production-877d.up.railway.app/ 
-
-
----
-
-### Tecnologías que uso:
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
-
----
-
+🛠️ Tecnologías que uso:
+<div align="center"> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" /> <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </div>
