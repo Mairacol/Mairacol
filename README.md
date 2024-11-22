@@ -19,8 +19,11 @@ Cómo crear aplicaciones interactivas con JavaScript, React y Redux.
 Buenas prácticas de UI/UX para optimizar el rendimiento de aplicaciones web.
 
 📫 Contáctame:
+
 📧 mairacolman19@gmail.com
+
 🌐 LinkedIn https://www.linkedin.com/in/maira-colman/
+
 💻 Portafolio https://my-portfolio-production-877d.up.railway.app/
 
 🛠️ Tecnologías que uso:
