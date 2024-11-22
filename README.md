@@ -2,19 +2,24 @@
 Soy una Desarrolladora Front-End apasionada por el diseño de interfaces intuitivas y la creación de experiencias de usuario atractivas. Disfruto transformar ideas en realidades digitales utilizando tecnologías modernas como React y JavaScript. 🌟
 
 🚀 Proyectos destacados:
+
 🎲 GAME STASH
+
 Aplicación para la compra y venta de cartas y juegos de mesa.
 https://game-stash.mx/ 
 
 🌱 Siempre aprendiendo:
+
 Mejorando habilidades avanzadas en CSS y diseño responsivo.
 Explorando TypeScript y pruebas automatizadas para aplicaciones web.
 
 🤝 Busco colaborar en:
+
 Proyectos Open Source enfocados en mejorar la experiencia de usuario y la accesibilidad.
 Equipos apasionados por el desarrollo ágil, código limpio y buenas prácticas.
 
 💬 Pregúntame sobre:
+
 Cómo crear aplicaciones interactivas con JavaScript, React y Redux.
 Buenas prácticas de UI/UX para optimizar el rendimiento de aplicaciones web.
 
