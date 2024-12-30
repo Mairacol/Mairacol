@@ -10,6 +10,9 @@ Disfruto transformar ideas en realidades digitales utilizando tecnologías moder
 Aplicación para la compra y venta de cartas y juegos de mesa.
 https://game-stash.mx/ 
 
+Actualidad:
+Crando una App FullStack de Asesoría  Financiera
+
 🌱 Siempre aprendiendo:
 
 Mejorando habilidades avanzadas en CSS y diseño responsivo.
