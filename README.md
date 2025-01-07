@@ -11,7 +11,7 @@ Aplicación para la compra y venta de cartas y juegos de mesa.
 https://game-stash.mx/ 
 
 Actualidad:
-Crando una App FullStack de Asesoría  Financiera
+Crando una App FullStack de Asesoría Financiera.
 
 🌱 Siempre aprendiendo:
 
