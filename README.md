@@ -3,11 +3,9 @@ Soy Maira Colman 👋
 Soy una Desarrolladora Front-End apasionada por el diseño de interfaces intuitivas y la creación de experiencias de usuario atractivas.
 Disfruto transformar ideas en realidades digitales utilizando tecnologías modernas como React y JavaScript. 🌟
 
-
 🚀 Proyectos destacados:
 
 🎲 GAME STASH
-
 Aplicación para la compra y venta de cartas y juegos de mesa.
 https://game-stash.mx/ 
 
