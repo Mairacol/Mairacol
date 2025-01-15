@@ -24,7 +24,6 @@ Proyectos Open Source enfocados en mejorar la experiencia de usuario y la accesi
 Equipos apasionados por el desarrollo ágil, código limpio y buenas prácticas.
 
 💬 Pregúntame sobre:
-
 Cómo crear aplicaciones interactivas con JavaScript, React y Redux.
 Buenas prácticas de UI/UX para optimizar el rendimiento de aplicaciones web.
 
