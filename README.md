@@ -10,7 +10,7 @@ Aplicación para la compra y venta de cartas y juegos de mesa.
 https://game-stash.mx/ 
 
 Actualidad:
-IMPULSO MERVAL
+💲IMPULSO MERVAL
 Crando una App FullStack de Asesoría Financiera.
 
 🌱 Siempre aprendiendo:
