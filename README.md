@@ -1,6 +1,6 @@
 ¡Hola! 
 Soy Maira Colman 👋
-Soy una Desarrolladora Front-End apasionada por el diseño de interfaces intuitivas y la creación de experiencias de usuario atractivas.
+Soy una Desarrolladora Full Stack apasionada por el diseño de interfaces intuitivas y la creación de experiencias de usuario atractivas.
 Disfruto transformar ideas en realidades digitales utilizando tecnologías modernas como React y JavaScript. 🌟
 
 🚀 Proyectos destacados:
